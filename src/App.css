@@ -1,0 +1,24 @@
+.service {
+  background-image: url(./images/service.svg);
+  height: 600px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+.portfolio {
+  background-image: url(./images/portfilio.svg);
+  margin-top: 150px;
+  height: 600px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.client {
+  background-image: url(./images/Group2.svg);
+  margin-top: 150px;
+  height: 600px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
